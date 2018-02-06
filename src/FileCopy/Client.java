@@ -23,7 +23,7 @@ public class Client {
 				
 		
 		
-		FileOutputStream fout = new FileOutputStream("test3");	
+		FileOutputStream fout = new FileOutputStream("ClientData/test3");	
 		PrintWriter pf = new PrintWriter(fout);
 	
 		
